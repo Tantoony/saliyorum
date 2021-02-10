@@ -13,5 +13,6 @@ Bütün altyapılarımı paylaşacağım. her iki günde bir altyapıdan bir bot
 * [Discord Sunucum](https://discord.gg/fsXjVh3dgD)
 * [Instagram](https://www.instagram.com/t.tantoony/)
 * [Twitter](https://twitter.com/Tantoony_)
+* [Youtube](https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg)
 
 ## Sunucumda beni bularak altyapıyı kullanmayı öğrenebilirsiniz!
