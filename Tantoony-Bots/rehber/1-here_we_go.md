@@ -1,0 +1,35 @@
+# Altyapıya başlarken ihtiyacınız olacak bilgiler
+
+## 1 ) Lowdb dosyalarındaki terimler:
+1. kanallar.json
+* "cmd_kayıt": log kanalı,
+* "cmd-kayıt": kayıt kanalı,
+* "bildirim": guildMemberAdd eventinde isteğe göre kullanabileceğiniz bildirim kanalı. Embed içinde mesaj göndereceği için normal hoş geldiniz mesajında etiketlemez,
+* "gk-şüphe": şüpheliler için ayrılan hoşgeldiniz kanalı,
+* "gk-cezalı": cezalılar için ayrılan hoşgeldiniz kanalı,
+* "gk-yasak": yasaklı tagdakiler için ayrılan hoşgeldiniz kanalı,
+* "gk-welcome": standart hoşgeldiniz kanalı",
+* "genel": genel chat,
+* "exejail": jail komutu için ayrılan kanal,
+* "execmute": chat mute komutu için ayrılan kanal,
+* "exevmute": voice mute komutu için ayrılan kanal,
+* "exeban": ban komutu için ayrılan kanal,
+* "kanalsorgu": sorgu kanalı için ayrılan kanal,
+* "randevular": Terapi randevu sistemi için randevu akışı,
+* "terapibek": Terapi randevu sistemi için terapi chat,
+* "terapilog": Terapi randevu sistemi için log kanalı,
+* "durumreq": Zamanında durumuna reklam yazanları loglattığım kanal (istek üzerine yüklerim)
+* "verilenyetkiler": log kanalı,
+* "botkomut": Açıklamama gerek yok sanırım :D,
+* "ST_PUBLIC": Genel odaların kategorisi,
+* "ST_PRIVATE": Özel odaların kategorisi,
+* "ST_ACTIVITY": Etkinlik odalarının kategorisi,
+* "ST_GAMING": Oyun odalarının kategorisi,
+* "ST_THERAPY": Terapi odalarının kategorisi,
+* "ST_MEDIATION": Sorun çözme odalarının kategorisi,
+* "ST_REGISTRY": Kayıt kanallarının kategorisi,
+* "ST_APPLICATION": Başvuru kanallarının kategorisi,
+* "ST_ALONE": Tekli odaların kategorisi,
+* "ST_STREAM": Yayın odalarının kategorisi,
+* "ST_AUTHORITY": Admin kanallarının kategorisi,
+* "cezalandırmalar": Bu neydi hatırlamıyorum ama log gibi bir şey
