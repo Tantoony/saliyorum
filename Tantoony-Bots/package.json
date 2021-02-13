@@ -1,0 +1,32 @@
+{
+    "name": "dev-tantoony",
+    "private": true,
+    "dependencies": {
+        "@discordjs/opus": "^0.3.3",
+        "canvas": "^2.6.1",
+        "canvas-pie-chart": "^1.0.7",
+        "chalk": "4.1.0",
+        "chart.js": "^2.9.4",
+        "child_process": "^1.0.2",
+        "common-tags": "^1.8.0",
+        "discord-anti-spam": "^2.4.1",
+        "discord.js": "12.3.1",
+        "dotenv": "^8.2.0",
+        "fs": "0.0.1-security",
+        "jimp": "^0.16.1",
+        "lowdb": "1.0.0",
+        "markdown-table": "^2.0.0",
+        "moment": "2.29.0",
+        "mongoose": "^5.10.7",
+        "node-opus": "^0.3.3",
+        "node-pre-gyp": "^0.17.0",
+        "path": "0.12.7",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6",
+        "scrape-yt": "^1.4.7",
+        "spotify-web-api-js": "^1.5.1",
+        "string-table": "^0.1.5",
+        "util": "^0.12.3",
+        "ytdl-core": "^4.4.3"
+    }
+}
