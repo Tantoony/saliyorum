@@ -1,0 +1,37 @@
+{
+  "sunucu": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "mongoDB": "Tantoony",
+  "CdSize": 12,
+  "pathCD": "C:/",
+  "tag": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "vanityURL": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "welcome": "https://cdn.discordapp.com/attachments/726393918757011526/791482001509187614/Render_Comp_00120.png",
+  "tantoony": "https://cdn.discordapp.com/avatars/674565119161794560/a_9de0187892ed19c53e3f361e6154cad3.gif?size=2048",
+  "yardımcılar": [
+    
+  ],
+  "yasaklıtag": [],
+  "testers": [
+    
+  ],
+  "status": [
+    {
+      "name": "Tantoony 🟃 Reformers",
+      "type": "WATCHING"
+    }
+  ],
+  "kkv": [
+    
+  ],
+  "godtier": [],
+  "rolcüler": [],
+  "urltotal": 8,
+  "lastCrush": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "embed": {
+    "başlık": "Tantoony is Watching",
+    "tarih": "Gonna be awesome!"
+  },
+  "taglıalım": false,
+  "ohal": false,
+  "musicbots": []
+}
