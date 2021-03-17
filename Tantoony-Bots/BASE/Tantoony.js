@@ -12,9 +12,7 @@ class Tantoony extends Client {
         this.config = require('../HELPERS/config');
         this.logger = require("../HELPERS/logger"); 
         this.wait = util.promisify(setTimeout);
-        this.functions = require("../HELPERS/functions");
-
-        this.autoUpdateDocs = require('../HELPERS/updater');
+        
         this.adapters = file => new FileSync(`../../BASE/${file}.json`);
         this.adapterroles = new FileSync('../../BASE/roller.json');
         this.adapterchannels = new FileSync('../../BASE/kanallar.json');
