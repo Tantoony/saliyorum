@@ -8,7 +8,6 @@ class Tantoony extends Client {
 
     constructor(options) {
         super(options);
-        this.autoUpdateDocs = require('../HELPERS/updater');
         this.config = require("../../../../BASE/config"); 
         this.commands = new Collection(); 
         this.aliases = new Collection();
